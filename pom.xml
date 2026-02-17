@@ -22,12 +22,7 @@
         <mainClass>nationalize.Main</mainClass>
     </properties>
     <dependencies>
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-            <version>3.20.0</version>
-            <scope>compile</scope>
-        </dependency>
+
         <dependency>
             <groupId>io.github.openfeign</groupId>
             <artifactId>feign-gson</artifactId>
