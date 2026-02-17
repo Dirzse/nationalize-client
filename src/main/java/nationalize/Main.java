@@ -1,7 +1,7 @@
 package nationalize;
 
 public class Main {
-
+//HAMAR ÁDÁM progyekt
     public static void main(String[] args) {
         if (args.length != 1) {
             System.err.printf("Usage: java %s <name>%n", Main.class.getName());
